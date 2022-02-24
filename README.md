@@ -1,2 +1,2 @@
-"##Aplied Data Science Course - Excercise"
+#Aplied Data Science Course - Excercise
 
